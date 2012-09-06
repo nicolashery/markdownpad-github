@@ -6,7 +6,7 @@ On a Windows computer, I use the very nice (and free!) [MarkdownPad](http://mark
 
 ## Installation
 
-In MarkdownPad just got to **Tools > Options > HTML/CSS**, check **Use custom stylesheet** and paste in the content of [markdownpad-github.css](markdownpad-github.css) (erasing what was already in the textbox).
+In MarkdownPad just got to **Tools > Options > HTML/CSS**, check **Use custom stylesheet** and paste in the content of [markdownpad-github.css](/nicolahery/markdownpad-github/blob/master/markdownpad-github.css) (erasing what was already in the textbox).
 
 ## Limitations
 
