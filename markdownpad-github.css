@@ -219,9 +219,13 @@ blockquote>:last-child {
 =============================================================================*/
 
 hr {
-  border: 0 none;
-  color: #ccc;
-  height: 4px;
+  clear: both;
+  margin: 15px 0;
+  height: 0px;
+  overflow: hidden;
+  border: none;
+  background: transparent;
+  border-bottom: 4px solid #ddd;
   padding: 0;
 }
 
