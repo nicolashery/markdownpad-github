@@ -215,6 +215,20 @@ blockquote>:last-child {
   margin-bottom: 0px;
 }
 
+/* HORIZONTAL RULES
+=============================================================================*/
+
+hr {
+  clear: both;
+  margin: 15px 0;
+  height: 0px;
+  overflow: hidden;
+  border: none;
+  background: transparent;
+  border-bottom: 4px solid #ddd;
+  padding: 0;
+}
+
 /* TABLES
 =============================================================================*/
 
