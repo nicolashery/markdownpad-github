@@ -91,7 +91,7 @@ a:first-child h1, a:first-child h2, a:first-child h3, a:first-child h4, a:first-
 }
 
 h1+p, h2+p, h3+p, h4+p, h5+p, h6+p {
-  margin-top: 0;
+  margin-top: 10px;
 }
 
 /* LINKS
